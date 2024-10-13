@@ -1,7 +1,4 @@
-# Data Science Internship Task 5
-<br>
 
-Welcome to the repository for my traffic accident data analysis project, completed during my data science internship at `Prodigy Infotech`. This project involves data cleaning, exploratory data analysis (EDA), visualization, and deriving insights from a dataset containing traffic accident records.
 
 ## Project Overview
 
